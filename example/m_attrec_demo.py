@@ -7,7 +7,12 @@ AttRec 模型训练示例
 作者: Ziyao Geng(zggzy1996@163.com)
 
 【模型简介】
-AttRec (Attention-based Recommendation) 是一种基于注意力机制的序列推荐模型。
+AttRec (Attention-based Recommendation) 
+是一种基于注意力机制的序列推荐模型。
+改了这里
+
+
+
 它结合了用户的长期兴趣和短期兴趣来进行推荐预测。
 
 【模型核心思想】
